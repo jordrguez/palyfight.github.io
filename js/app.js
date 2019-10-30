@@ -66,7 +66,8 @@ var legs = ["smith machine box squats", "dumbell lunges", "dumbell lunges", "leg
 
 var muscles = [
     [biceps, "bicep"],
-    [triceps, "tricep"]
+    [triceps, "tricep"],
+    [chest, "chests"]
 ];
 
 var i, len;
